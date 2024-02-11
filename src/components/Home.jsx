@@ -91,7 +91,7 @@ function Home(props) {
             </div>
             <div className="column-2">
               <div className="div-27">
-                <div className="master">     <img src={images7} height="60" width="60" /></div>
+                <div className="master"><img src={images7} height="60" width="60" /></div>
               
                 <div className="div-28">My Skills</div>
                 <div className="div-29">

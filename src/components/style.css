@@ -21,6 +21,12 @@
           flex-direction: column;
           padding: 19px 60px;
         }
+        .div-6:hover{
+          background-color: #000000;
+          color: white;
+          border-color: #fff;
+          
+        }
         @media (max-width: 991px) {
           .div-2 {
             max-width: 100%;
@@ -2866,4 +2872,113 @@
           margin-top: 14px;
           max-width: 100%;
         }
-      
+        @media (max-width: 420px) {
+          .div-3{
+            margin-top: 10px;
+          }
+          .div-6{
+            font-size: 18px;
+          }
+          .div-8{
+            font-size: 35px
+            }
+            .div-9{
+                padding:0px 10px;
+            }
+            .div-11{
+              padding-bottom:150px;
+            }
+            .div-16{
+              padding-top: 10px;
+            }
+             .div-14{
+              width: 100%;
+              max-width: 100%;
+              padding: 0px;
+             }
+
+             .column-2 {
+              display: flex;
+              line-height: normal;
+              width:100%;
+              margin-left: 0px;
+            }
+            .column-3 {
+              display: flex;
+              flex-direction: column;
+              line-height: normal;
+              width: 100%;
+              margin-left: 0px;
+            }
+            .div-73{
+              margin-top:20px;
+            }
+            .div-75{
+              padding-top: 10px;
+            }
+            .column-19 {
+              display: flex;
+              flex-direction: column;
+              line-height: normal;
+              width: 33%;
+              margin-left: 20px;
+            
+            }
+            .column-19 {
+              display: flex;
+              flex-direction: column;
+              line-height: normal;
+              width: 100%;
+              margin-left: 0px;
+            }
+            .column-20 {
+              display: flex;
+              flex-direction: column;
+              line-height: normal;
+              width: 100%;
+              margin-left: 0px;
+            }
+            .div-83{
+              padding-top:10px;
+            }
+            .div-115{
+                font-size: 30px;
+                padding: 20px;
+            }
+            .div-116{
+              font-size:18px;
+            }
+            .div-118{
+              padding:10px 0px;
+            }
+            .div-129{
+              padding: 10px;
+            }
+            .div-131{
+              justify-content: center;
+              display: flex;
+              padding-top: 10px;
+              padding-bottom: 10px;
+            
+            }
+            .div-134 img{
+              width:20px;
+              height: 20px;
+              align-self: center;
+            }
+            .div-137{
+              padding-top:10px;
+            }
+            .div-136{
+              padding-top:10px;
+            }
+            .div-139 {
+              align-self: stretch;
+              display: flex;
+              
+              justify-content: space-around;
+            }
+            .div-12{
+              font-size:25px;
+            }
+        }
